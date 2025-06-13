@@ -101,7 +101,7 @@ jobs:
 
 > DEVELOPER OF MANFRED
 - [MANFRED](https://github.com/Ebenye-1/MANFRED-MD-V1)
-- Creater and Owner Of LITE-MD
+- Créateur et  propriétaire de MANFRED-MD-V1
 
 > MANFRED-MD-V1 PRÉSIDENT
 - https://wa.me/237690022323
